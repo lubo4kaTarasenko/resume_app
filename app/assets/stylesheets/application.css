@@ -15,6 +15,9 @@
  */
 .jumbo{
   overflow: hidden;
+  color: white;
+  background: rgb(154,29,217);
+  background: linear-gradient(90deg, rgba(154,29,217,1) 11%, rgba(9,9,121,1) 45%, rgba(0,212,255,1) 100%);
 }
 .left{
   display: inline;
